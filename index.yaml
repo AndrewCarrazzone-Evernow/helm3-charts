@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  scancentral-dast:
+  - apiVersion: v2
+    appVersion: 23.2.0
+    created: "2024-09-19T17:23:09.6281478-03:00"
+    description: A Helm chart for ScanCentral DAST
+    digest: a12b426009314c530c6e378199801f189b7c851e8b4514092fa3a2159272d624
+    name: scancentral-dast
+    type: application
+    urls:
+    - https://AndrewCarrazzone-Evernow.github.io/helm3-charts/charts/scancentral-dast-23.2.0.tgz
+    version: 23.2.0
+generated: "2024-09-19T17:23:09.6259385-03:00"
